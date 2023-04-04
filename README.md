@@ -9,8 +9,8 @@ A Python botnet script with remote control system to clients with included backd
 
 # Changelogs
 ### 05/04/2023
-# Start.py adds client to startup
-# on startup client now runs in the background
+* Start.py adds client to startup
+* on startup client now runs in the background
 
 
 ### 16/01/2021
