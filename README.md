@@ -13,7 +13,8 @@ A Python botnet script with remote control system to clients with included backd
 * on startup client now runs in the background
 
 
-### 16/01/2021
+### 05/04/2023
+Replace this with your own ip adress https://github.com/DABOSS2016YT/PyBot/blob/cb4c562404fe4470fdaf9e5169c0ff5d8a9d10ec/bot/Client2.0.py#L231
 
 # WARNING
 This is just a sample project, I will not be responsible for any of your actions.
