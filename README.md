@@ -8,12 +8,12 @@ A Python botnet script with remote control system to clients with included backd
 
 
 # Changelogs
-### 30/09/2022
-* Updated
-* Server Authorization (coming soon)
+### 05/04/2023
+# Start.py adds client to startup
+# on startup client now runs in the background
+
 
 ### 16/01/2021
-* Bug Fixed
 
 # WARNING
 This is just a sample project, I will not be responsible for any of your actions.
