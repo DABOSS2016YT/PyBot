@@ -19,3 +19,11 @@ A Python botnet script with remote control system to clients with included backd
 * Don't say the devils made you do it
 * I got bored and wanted to add a little to this project cause it seems cool
 
+
+### How do i use this?
+# Check the wikipedia, it's at the top
+# Join my discord https://discord.gg/5SQkWBzJbN
+# Use google and your common sense, if there is an error then google it
+# Submit a pull request
+# Message me on discord, as i'm not too active on here DABOSS#5667
+
