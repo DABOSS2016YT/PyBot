@@ -36,7 +36,7 @@ A Python botnet script with remote control system to clients with included backd
 
 
 ### Screenshots
-![image](https://user-images.githubusercontent.com/43446532/229950646-bef0ce21-f32b-4f68-8216-478a8c2ea4f2.png)
+![image](https://user-images.githubusercontent.com/43446532/229951702-c9b74a65-b097-43dc-a981-663d833e0f91.png)
 ![image](https://user-images.githubusercontent.com/43446532/229950695-c3bb5eb3-5b6b-499e-9db2-f6738b6771c8.png)
 ![image](https://user-images.githubusercontent.com/43446532/229950781-08e485bb-9138-4898-b828-90aed5ada025.png)
 ![image](https://user-images.githubusercontent.com/43446532/229950831-1e22de5e-3c5b-4ed2-96d7-a75e7699f50b.png)
