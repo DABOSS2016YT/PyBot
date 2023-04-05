@@ -27,3 +27,9 @@ A Python botnet script with remote control system to clients with included backd
 * Submit a pull request
 * Message me on discord, as i'm not too active on here DABOSS#5667
 
+
+### Virus Scan Results
+* Virustotal - https://www.virustotal.com/gui/file/3c57c1ccc0c29e9acbd1034660270bb3deac6fe8c48f32fda192d98ebe4142c6?nocache=1
+* MetaDefender - https://metadefender.opswat.com/results/file/bzIzMDQwNU1uTGdYOGtuZWdmVXZmUjJfMjU/regular/overview
+* VirScan - https://www.virscan.org/report/3c57c1ccc0c29e9acbd1034660270bb3deac6fe8c48f32fda192d98ebe4142c6
+
