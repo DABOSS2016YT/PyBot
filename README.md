@@ -36,14 +36,14 @@ A Python botnet script with a remote control system to clients with an included 
 
 
 
---------------------- Commands ---------------------
+--------------------- **_Commands_** ---------------------
 
-** list                                     - list all connected clients
-        ping                                     - ping all clients
-        connect <client_id>                      - connect to a client
-        attack <ip> <port> <duration> <threads>  - UDP flood attack on target
-        tasklist                                 - list all running tasks
-        kill <task_id>                           - kill a task
-        killall                                  - kill all tasks
-        destroy                                  - destroy all clients
-        help                                     - show this help message**
+**        list                                     - list all connected clients**
+**        ping                                     - ping all clients**
+**        connect <client_id>                      - connect to a client**
+**        attack <ip> <port> <duration> <threads>  - UDP flood attack on target**
+**        tasklist                                 - list all running tasks**
+**        kill <task_id>                           - kill a task**
+**        kill all                                  - kill all tasks**
+**        destroy                                  - destroy all clients**
+**        help                                     - show this help message****
