@@ -275,7 +275,7 @@ class UDPFloodManager(Thread):
 
 
 class Client():
-	def __init__(self, addr:Tuple[str,int]=("127.0.0.1",666)) -> None:
+	def __init__(self, addr:Tuple[str,int]=("change this to your external IP address, for local use you can use 127.0.0.1",666)) -> None:
 		signal.signal(signal.SIGINT, self.exit_gracefully)
 		signal.signal(signal.SIGTERM, self.exit_gracefully)
 		self.stop = False
