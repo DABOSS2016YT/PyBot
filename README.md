@@ -8,6 +8,13 @@ A Python botnet script with a remote control system to clients with an included 
 **Use at your own risk, I do not accept responsibility, only use on your own devices**
 
 # Changelogs
+
+### 30/03/2024
+* Added a simple builder tool for Windows*
+* Added a built-in obfuscator for windows*
+* Made the builder GUI based for ease of use*
+
+
 ### 28/03/2024
 * **what the fuck did I code, I just looked over that and some of it didn't even work**
 * Combined start.py and Client2.0.py client2.0 now automatically adds itself to startup and will duplicate itself into your documents folder, this allows it to automatically start itself whenever the target's computer restarts, it also opens hidden in the background so they'd only notice it if they were looking for it.
