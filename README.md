@@ -82,6 +82,10 @@ https://github.com/DABOSS2016YT/PyBot/blob/4726790373c0c146fae0b39cf975cabd7645f
 
 **help - shows commands**
 
+# goofy ass videos and other such going over the script
+
+https://youtu.be/O1mhzyi3PSA?si=FaAsVdJSQLSOw9R0
+
 
 # TO DO
 - add deobfuscation for other devices
