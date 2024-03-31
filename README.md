@@ -14,7 +14,9 @@ A Python botnet script with a remote control system to clients with an included 
 - Port forward / test locally
 - find your IP address
 - put your Server's IP address into this cool box (it should be the one you just looked up)
+
 ![image](https://github.com/DABOSS2016YT/PyBot/assets/43446532/4af538a2-12dc-4619-8dbf-e1f20dbed3fe)
+
 - run the client and it should appear when you type "list"
 
 #for other systems
