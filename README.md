@@ -1,4 +1,8 @@
 <p align="center">
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+</p>
+
+<p align="center">
   <img src="https://github.com/DABOSS2016YT/PyBot/blob/master/banner.png">
 </p>
 
