@@ -29,6 +29,11 @@ https://github.com/DABOSS2016YT/PyBot/blob/4726790373c0c146fae0b39cf975cabd7645f
 
 # Changelogs
 
+### 31/04/2024
+* added issues so report bugs there
+* added discussions so slap some suggestions there
+* destroyed my sleep schedule again so I'm going to sleep
+
 ### 30/03/2024
 * Added a simple builder tool for Windows*
 * Added a built-in obfuscator for Windows*
