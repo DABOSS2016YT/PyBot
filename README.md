@@ -7,12 +7,25 @@
 A Python botnet script with a remote control system to clients with an included backdoor, a powerful script and easy to modify.
 **Use at your own risk, I do not accept responsibility, only use on your own devices**
 
+
+
+
+### For windows;
+- Port forward / or test locally
+- find your IP address
+- put your Server's IP address into this cool box (it should be the one you just looked up)
+![image](https://github.com/DABOSS2016YT/PyBot/assets/43446532/4af538a2-12dc-4619-8dbf-e1f20dbed3fe)
+- run the client and it should appear when you type "list"
+
+## for other systems scroll down
+
+
 # Changelogs
 
 ### 30/03/2024
 * Added a simple builder tool for Windows*
-* Added a built-in obfuscator for windows*
-* Made the builder GUI based for ease of use*
+* Added a built-in obfuscator for Windows*
+* Made the builder GUI-based for ease of use*
 
 
 ### 28/03/2024
