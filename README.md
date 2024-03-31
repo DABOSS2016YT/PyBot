@@ -1,5 +1,6 @@
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<IMG SRC="https://github-readme-stats.vercel.app/api/?username=DABOSS2016YT&count_private=true&theme=tokyonight&showicons=true" alt="statistics" />
+<img src="https://komarev.com/ghpvc/?username=DABOSS2016YT&style=flat-square&color=blue" alt="profile view statistics"/>
 </p>
 
 <p align="center">
