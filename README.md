@@ -10,7 +10,7 @@ A Python botnet script with a remote control system to clients with an included 
 
 
 
-### For windows;
+# For windows;
 - Port forward / or test locally
 - find your IP address
 - put your Server's IP address into this cool box (it should be the one you just looked up)
